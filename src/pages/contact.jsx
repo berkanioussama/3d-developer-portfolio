@@ -1,9 +1,9 @@
 const Contact = () => {
-    return (
-        <div className="flex">
-            <h1>Contact</h1>
-        </div>
-    );
-}
- 
+  return (
+    <div className="flex">
+      <h1>Contact</h1>
+    </div>
+  );
+};
+
 export default Contact;
